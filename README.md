@@ -1,5 +1,5 @@
 ```js
-console.log("Hello, world! 👋") // - 🐻‍❄️ Breezist
+console.log("Hello, world! 🐻‍❄️") // - Breezist
 ```
 > [!NOTE]
 > Welcome to my profile, stranger! This is where I program a few things - mostly just for storage of my website's source code though.
