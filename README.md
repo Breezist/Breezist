@@ -1,4 +1,5 @@
-Reworking - TBA
+Oh hi, hello! :D 👋 
+> This is where I program things, from websites to scripts.
 
 # Languages
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,lua,java,python)](https://skillicons.dev)
